@@ -1,0 +1,17 @@
+{
+  "name": "3d_viewer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "@types/typescript": "^2.0.0",
+    "typescript": "^5.5.2"
+  }
+}
